@@ -2,6 +2,9 @@
 
 A modern, mobile-first iOS app UI called “Roomie” — a swipe-based roommate matching app inspired by Tinder, focused on housing and lifestyle compatibility.
 
+![ScreenRecording2026-01-09at4 58 29PM-ezgif com-speed](https://github.com/user-attachments/assets/1018d8f1-aaca-461a-8aa8-ee5a47bba337)
+
+
 ## Features
 
 - Mobile-first, iOS-style UI components and screens
